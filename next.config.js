@@ -1,0 +1,13 @@
+module.exports={
+    images:{
+        domains:[
+            "img.icons8.com",
+            "platform-lookaside.fbsbx.com",
+            "firebasestorage.googleapis.com",
+            "i.gadgets360cdn.com",
+            "assets.bwbx.io",
+            "upload.wikimedia.org",
+            "en.wikipedia.org"        
+        ]
+    }
+}
