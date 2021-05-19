@@ -4,7 +4,7 @@
 </div>
 <br>
 
-> FACEBOOK CLONE USING REACT.JS ,REDUX & FIRBASE (UNDER DEVLOPEMENT)
+> FACEBOOK CLONE USING NEXT.JS ,NEXT AUTH & FIRBASE (UNDER DEVLOPEMENT) <br>
 > App made to brush up the NEXT.JS skills 
 
 ## ⚙️ Detailed Functionality
