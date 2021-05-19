@@ -25,6 +25,6 @@
 ## 📸 Screenshots
 
 ## Home Page
-<img src="./public/screencapture-localhost-3000-2021-05-19-09_34_27.png" width='400' height='auto'>
+<img src="./public/screencapture-localhost-3000-2021-05-19-09_34_27.png" width='800' height='auto'>
 
 
