@@ -36,7 +36,7 @@ const Header = () => {
             <div className="right flex items-center sm:space-x-2 justify-end">
                 {/*profile pic*/}
                 <Image className="rounded-full cursor-pointer" src={session.user.image} width={40} height={40}/>
-                <p className="font-semibold pr-3">{session.user.name}</p>
+                <p className="hidden sm:font-semibold pr-3">{session.user.name}</p>
                 <ViewGridIcon className="icon"/>
                 <ChatIcon className="icon"/>
                 <BellIcon className="icon"/>
